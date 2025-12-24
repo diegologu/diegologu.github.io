@@ -5,6 +5,8 @@ description: Design and attitude control of a single axis seesaw with motor and 
 img: assets/img/seesaw/gnrl_view.jpg
 importance: 3
 category: coursework
+start: 2023-03-01
+end: 2023-06-1
 ---
 
 <div class="row mt-3">

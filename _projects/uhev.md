@@ -6,6 +6,8 @@ img: assets/img/uhev/SEM_hor.jpg
 importance: 2
 category: extracurricular
 giscus_comments: false
+start: 2019-08-01
+end: 2023-05-1
 ---
 
 <div class="row mt-3">

@@ -6,6 +6,8 @@ img: assets/img/glass_table/gnrl_assembly.png
 importance: 1
 category: coursework
 related_publications: true
+start: 2021-11-01
+end: 2021-10-1
 ---
 
 <div class="row mt-3">
