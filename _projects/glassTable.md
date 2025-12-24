@@ -17,12 +17,11 @@ related_publications: true
     General view of the glass tilting table design.
 </div>
 
-
 ## Contents
+
 - [Summary](#summary)
 - [Media](#media)
 - [Final thoughts](#final)
-
 
 <hr>
 

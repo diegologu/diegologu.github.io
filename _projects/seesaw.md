@@ -16,11 +16,10 @@ category: coursework
     General view of the system.
 </div>
 
-
 ## Contents
+
 - [Summary](#summary)
 - [Media](#media)
-
 
 <hr>
 
@@ -30,11 +29,11 @@ category: coursework
 
 ### What
 
-As final project of the the course **Dynamic Systems and Control**, an attitude control system for a single axis seesaw with motor and propeller was designed. Classic control algorithms such as P, PI and PID control were applied. 
+As final project of the the course **Dynamic Systems and Control**, an attitude control system for a single axis seesaw with motor and propeller was designed. Classic control algorithms such as P, PI and PID control were applied.
 
 ### How
 
-We employed recycled material from previous projects to build the system. The transfer function was identified using the System Identification Toolbox from **MATLAB**. **Arduino** was used to read the angle of the seesaw and send the control signal through PWM to the motor driver. The microcontroller was connected to a laptop responsible of computing the control algorithm in **Simulink** and sending the response signal back.  Parameters were tuned using trial and error method.
+We employed recycled material from previous projects to build the system. The transfer function was identified using the System Identification Toolbox from **MATLAB**. **Arduino** was used to read the angle of the seesaw and send the control signal through PWM to the motor driver. The microcontroller was connected to a laptop responsible of computing the control algorithm in **Simulink** and sending the response signal back. Parameters were tuned using trial and error method.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,7 +43,6 @@ We employed recycled material from previous projects to build the system. The tr
 <div class="caption">
     Electrical schematic of the project.
 </div>
-
 
 ### Results
 

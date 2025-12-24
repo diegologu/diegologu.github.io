@@ -8,7 +8,6 @@ category: extracurricular
 giscus_comments: false
 ---
 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/uhev/Mamba_side.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -18,15 +17,14 @@ giscus_comments: false
     <a href="https://www.instagram.com/unisabanaheronsev/">UHEV</a> vehicle at Pier Mauá, Rio de Janeiro
 </div>
 
-
 ## Contents
+
 - [Summary](#summary)
 - [What's the project](#introduction)
 - [Design](#cad)
 - [Manufacturing](#cnc)
 - [Electronics](#pcb)
 - [Final Thoughts](#final)
-
 
 <hr>
 
@@ -57,7 +55,7 @@ I played an active role in designing and constructing the bodywork and electroni
 
 The Shell Eco-marathon is an annual competition that challenges student teams from around the world to design, build, and race ultra-energy-efficient vehicles. The goal is to encourage innovation and inspire young engineers and scientists to create solutions to the world's energy challenges. The competition provides a platform for students to gain hands-on experience in engineering and design, as well as an opportunity to network with industry professionals and showcase their talents to potential employers. [More infromation](https://www.makethefuture.shell/en-gb/shell-eco-marathon/faq).
 
-My university team has been participating in the electric prototype branch of this competition since 2017, being the only university in the country (Colombia) to qualify to this competition. I'm honored to be part of the team that represented the university in the most recent season at Rio de Janeiro, Brazil in 2022. We received an honorific mention for the innovative technical design of our vehicle thanks to the  resourceful manufacturing process of the bodywork and other mechanical parts.
+My university team has been participating in the electric prototype branch of this competition since 2017, being the only university in the country (Colombia) to qualify to this competition. I'm honored to be part of the team that represented the university in the most recent season at Rio de Janeiro, Brazil in 2022. We received an honorific mention for the innovative technical design of our vehicle thanks to the resourceful manufacturing process of the bodywork and other mechanical parts.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -93,14 +91,13 @@ Shell Eco-Marathon rules state that a detailed CAD of the vehicle must be submit
 
 We employed a variety of manufacturing processes to produce the diverse parts required for the vehicle. One of the notable highlights that earned us an honorable mention for innovative technical design during Shell Eco-Marathon Brazil 2022 was the process we used to construct the bodywork. We implemented several sub-processes to create a resilient yet flexible cover for our vehicle. We used polystyrene to create the mold for the carbon fiber using **Fusion 360** and **Mastercam** software to develop the routing for the 5-axis CNC machine. As the mold was too large to fit as a whole in the CNC, we divided it into sub-sections that we later glued together. This process was a significant improvement from our previous vehicles, where we had to cut a large polystyrene cube by hand until it reached the desired surface. By using CNC machining, we achieved an unprecedented surface finish that resulted in reduced air drag and improved efficiency.
 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/uhev/manufacturing_1.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
-We used the **wet lay-up method** to apply carbon fiber to the polystyrene mold. This involved combining epoxy resin and hardener, and layering the carbon fiber onto the mold. After allowing it to cure for 48 hours, we cut a section on the bottom and *gently* removed the bodywork from the mold. We were then able to attach the aluminum chassis to the bodywork and enclose it with the previously removed floor.
+We used the **wet lay-up method** to apply carbon fiber to the polystyrene mold. This involved combining epoxy resin and hardener, and layering the carbon fiber onto the mold. After allowing it to cure for 48 hours, we cut a section on the bottom and _gently_ removed the bodywork from the mold. We were then able to attach the aluminum chassis to the bodywork and enclose it with the previously removed floor.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -129,7 +126,6 @@ With the goal of transitioning from multiple hand-built boards to a more streaml
         {% include figure.liquid loading="eager" path="assets/img/uhev/pcb.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
 
 <a id="final"></a>
 
