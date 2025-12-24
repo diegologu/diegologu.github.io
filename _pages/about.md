@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Grehan 020</p>
+    <p>University of Kentucky</p>
+    <p>Lexington, KY</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,16 +19,15 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I'm Diego Lopez Guerrero, a Ph.D. student in the [SPARK Laboratory](https://sparklab.engr.uky.edu/) under the supervision of [Professor Dan M. Ionel](https://scholar.google.com/citations?user=jkL_-FIAAAAJ&hl=en) at the University of Kentucky. I started my doctoral journey after earning my B.Sc. in Mechanical Engineering from Universidad de La Sabana in Colombia in 2024.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Before beginning the Ph.D. program, I had the opportunity to work as a Visiting Student Scholar at the SPARK Lab, where I contributed to the mechanical design of two prototype systems exploring advanced concepts in electric machines. During my undergrad years, I was part of the first and only colombian [team](https://www.instagram.com/uhev.col/) in the [Shell Eco-Marathon](https://www.shellecomarathon.com/) competition. For which we designed, built, and raced ultra-efficient electric vehicles, participating in the Brazil 2022 competition.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was fortunate to be awarded the Excellence Scholarship throughout my time at La Sabana, and now I serve as both a Teaching Assistant in the ECE Department and a Research Assistant at the SPARK Lab. My current research focuses on electric machines, with a special interest in electric propulsion systems for aircraft.
