@@ -2,96 +2,105 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Diego A. Lopez Guerrero
+    - name: Email
+      value: diegolopezg@uky.edu
+    - name: Phone
+      value: +1 (859)-489-9271
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Electrical Engineering
+      institution: University of Kentucky, USA
+      year: 2029
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Advisor: Professor Dan M. Ionel"
+        - "GPA: 4.0/4.0"
+    - title: B.S. in Mechanical Engineering
+      institution: Universidad de La Sabana, Colombia
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Excellence Scholarship recipient
+        - "GPA: 3.5/4.0 (equiv. excellent)"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: "SPARK Lab, University of Kentucky"
+      year: 2024-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Contributions to projects sponsored directly from NASA and industry
+        - Employed Autodesk Inventor and Fusion 360 for 3D CAD modeling, manufacturing drawings, and assembly videos
+        - Performed parametric electromagnetic modeling, analysis, and optimization of electric machines with Ansys Maxwell finite element analysis (FEA)
+        - Operated lab equipment, including power sources, oscilloscopes and power analyzers
+        - Designed mechanical fixtures for motor prototypes, combining off-the-shelf parts, in-house manufacturing, and external collaborators
+        - Scripted and processed data using MATLAB and Python
+    - title: Teaching Assistant
+      institution: Stanley and Karen Pigman College of Eng., University of Kentucky
+      year: 2024-present
       description:
-        - Description 1.
-        - Description 2.
+        - Guided engineering students from diverse backgrounds in understanding and navigating complex engineering concepts
+        - "<u>Electromechanics and Electromagnetics:</u> Strong theoretical foundations"
+        - "<u>Electronic Packaging:</u> PCB design and manufacturing using KiCad"
+        - "<u>First-Year Engineering:</u> Microcontroller-based projects, guiding students on how to code, design, and build using MATLAB, CAD software, and 3D printing"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Selected Honors
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+  - Best Student Demo Award at IEEE International Electric Machines & Drives Conference 2025
+  - Winner of the 2021 Sabanahack hackathon awarded by Prodigious and Universidad de La Sabana
+  - Excellence Scholarship recipient at Universidad de La Sabana, Colombia (2019-2024)
+  - Scored in the top 1% on national standardized tests for high chool (2018) and university graduates (2023)
+  - Certified C1 English level IELTS 7.5 and Duolingo English Test 145
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Soft skills
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Excellent written and verbal communication
+        - Strong interpersonal abilities
+        - Demonstrated effectiveness in a fast-paced team environment
+        - Can-do attitude
+        - Results oriented
+    - title: Software
       items:
-        - Description 1.
-        - Description 2.
+        - Ansys Maxwell
+        - Ansys Mechanical
+        - MATLAB
+        - Python
+        - Autodesk Inventor
+        - Autodesk Fusion 360
+        - KiCad
+        - Excel
+        - LaTeX
+    - title: Hands-on skills
+      items:
+        - 3D printing
+        - CNC machining
+        - Soldering
+        - PCB design and assembly
+        - Mechanical fixture design for motor prototypes
+        - Carbon-fiber parts fabricationy
+        - Microcontroller-based systems
+
+
+- title: References
+  type: nested_list
+  contents:
+    - title: "Professor Dan M Ionel, PhD, MEng, IEEE Fellow"
+      items:
+      - L. Stanley Pigman Chair in Power, University of Kentucky
+      - Honorary Professor, University College London (UCL)
+      - Director, SPARK Lab and PEIK Institute, University of Kentucky
+      - dan.ionel@uky.edu
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Reading, rock climbing, hiking.
