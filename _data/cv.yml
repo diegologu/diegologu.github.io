@@ -46,16 +46,14 @@
         - "<u>Electronic Packaging:</u> PCB design and manufacturing using KiCad"
         - "<u>First-Year Engineering:</u> Microcontroller-based projects, guiding students on how to code, design, and build using MATLAB, CAD software, and 3D printing"
 
-
 - title: Selected Honors
   type: list
   contents:
-  - Best Student Demo Award at IEEE International Electric Machines & Drives Conference 2025
-  - Winner of the 2021 Sabanahack hackathon awarded by Prodigious and Universidad de La Sabana
-  - Excellence Scholarship recipient at Universidad de La Sabana, Colombia (2019-2024)
-  - Scored in the top 1% on national standardized tests for high chool (2018) and university graduates (2023)
-  - Certified C1 English level IELTS 7.5 and Duolingo English Test 145
-
+    - Best Student Demo Award at IEEE International Electric Machines & Drives Conference 2025
+    - Winner of the 2021 Sabanahack hackathon awarded by Prodigious and Universidad de La Sabana
+    - Excellence Scholarship recipient at Universidad de La Sabana, Colombia (2019-2024)
+    - Scored in the top 1% on national standardized tests for high chool (2018) and university graduates (2023)
+    - Certified C1 English level IELTS 7.5 and Duolingo English Test 145
 
 - title: Skills
   type: nested_list
@@ -88,17 +86,15 @@
         - Carbon-fiber parts fabricationy
         - Microcontroller-based systems
 
-
 - title: References
   type: nested_list
   contents:
     - title: "Professor Dan M Ionel, PhD, MEng, IEEE Fellow"
       items:
-      - L. Stanley Pigman Chair in Power, University of Kentucky
-      - Honorary Professor, University College London (UCL)
-      - Director, SPARK Lab and PEIK Institute, University of Kentucky
-      - dan.ionel@uky.edu
-
+        - L. Stanley Pigman Chair in Power, University of Kentucky
+        - Honorary Professor, University College London (UCL)
+        - Director, SPARK Lab and PEIK Institute, University of Kentucky
+        - dan.ionel@uky.edu
 
 - title: Other Interests
   type: list
