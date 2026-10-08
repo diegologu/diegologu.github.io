@@ -11,10 +11,17 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "publications by categories in reversed chronological order.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -375,13 +382,19 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-stoner",
+          title: 'Stoner',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/stoner/";
             },},{id: "news-first-version-of-this-webpage",
           title: 'First version of this webpage :)',
+          description: "",
+          section: "News",},{id: "news-we-presented-a-tutorial-on-electric-machine-design-using-machine-learning-at-coiltech-2026-north-america",
+          title: 'We presented a tutorial on electric machine design using machine learning at CoilTech...',
+          description: "",
+          section: "News",},{id: "news-poster-presentation-at-ieee-ecce-2026-vancouver-bc-ca",
+          title: 'Poster presentation at IEEE ECCE 2026 Vancouver, BC, CA.',
           description: "",
           section: "News",},{id: "projects-glass-tilting-table",
           title: 'Glass Tilting Table',
@@ -404,6 +417,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%64%69%65%67%6F%6C%6F%70%65%7A%67@%75%6B%79.%65%64%75", "_blank");
+        },
+      },{
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ieeexplore.ieee.org/author/ieeexplore.ieee.org/author/667747014363926/", "_blank");
         },
       },{
         id: 'social-linkedin',
