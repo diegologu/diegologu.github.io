@@ -6,12 +6,9 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.JPEG
+  image: GrouseMntn.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Grehan 020</p>
-    <p>University of Kentucky</p>
-    <p>Lexington, KY</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -23,12 +20,12 @@ announcements:
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 1 # leave blank to include all the blog posts
 ---
 
-I'm Diego Lopez Guerrero, a Ph.D. student in the [SPARK Laboratory](https://sparklab.engr.uky.edu/) under the supervision of [Professor Dan M. Ionel](https://scholar.google.com/citations?user=jkL_-FIAAAAJ&hl=en) at the University of Kentucky. I started my doctoral journey after earning my B.Sc. in Mechanical Engineering from Universidad de La Sabana in Colombia in 2024.
+I'm Diego, a Ph.D. student at the University of Kentucky, working in the [SPARK Laboratory](https://sparklab.engr.uky.edu/) under the supervision of [Professor Dan M. Ionel](https://scholar.google.com/citations?user=jkL_-FIAAAAJ&hl=en). My research focuses on electric machines, particularly electromagnetic performance analysis and design. My work spans the entire engineering process, from machine concept development to prototyping, including mechanical fixture design and manufacturing, and experimental validation.
 
-Before beginning the Ph.D. program, I had the opportunity to work as a Visiting Student Scholar at the SPARK Lab, where I contributed to the mechanical design of two prototype systems exploring advanced concepts in electric machines. During my undergrad years, I was part of the first and only colombian [team](https://www.instagram.com/uhev.col/) in the [Shell Eco-Marathon](https://www.shellecomarathon.com/) competition. For which we designed, built, and raced ultra-efficient electric vehicles, participating in the Brazil 2022 competition.
+My experience combines hands-on engineering, research and teaching. Working with multidisciplinary and multicultural teams has allowed me to develop collaboration skills, clear communication and adaptability to fast-paced engineering environments.
 
-I was fortunate to be awarded the Excellence Scholarship throughout my time at La Sabana, and now I serve as both a Teaching Assistant in the ECE Department and a Research Assistant at the SPARK Lab. My current research focuses on electric machines, with a special interest in electric propulsion systems for aircraft.
+I enjoy nature, reading, and sports. Lately, I've been particularly interested in rock climbing and philosophical literature. I'm also fascinated by aerospace and the human and engineering aspects behind it.
